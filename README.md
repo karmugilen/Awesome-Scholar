@@ -11,7 +11,7 @@ This repository aims to provide a comprehensive collection of tools, websites, a
 
 -   Research Tools and Platforms:
     -   General Research Tools: Google Scholar, ResearchGate, Academia.edu
-    -   Citation Managers: Mendeley, Zotero, EndNote
+    -   Citation Managers: Mendeley, Zotero, EndNote, PAPERLIB, Logseq
     -   Data Analysis and Visualization: R, Python, MATLAB, Tableau
     -   Writing and Editing: Grammarly, ProWritingAid, Scrivener
 -   Academic Databases and Journals:
