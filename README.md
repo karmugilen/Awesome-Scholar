@@ -11,8 +11,9 @@ This repository aims to provide a comprehensive collection of tools, websites, a
 
 -   Research Tools and Platforms:
     -   General Research Tools
-    -   [Google Scholar](https://github.com/deephacks/awesome-jvm#readme)
-    -   , ResearchGate, Academia.edu
+    -   [Google Scholar](https://scholar.google.com/?authuser=1)
+    -   [ResearchGate](https://www.researchgate.net/)
+    -   [semanticscholar](https://www.semanticscholar.org/)
     -   Citation Managers: Mendeley, Zotero, EndNote, PAPERLIB, Logseq
     -   Data Analysis and Visualization: R, Python, MATLAB, Tableau
     -   Writing and Editing: Grammarly, ProWritingAid, Scrivener
