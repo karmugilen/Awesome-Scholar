@@ -11,12 +11,19 @@ This repository aims to provide a comprehensive collection of tools, websites, a
 
 -   Research Tools and Platforms:
     -   General Research Tools
-    -   [Google Scholar](https://scholar.google.com/?authuser=1)
-    -   [ResearchGate](https://www.researchgate.net/)
-    -   [semanticscholar](https://www.semanticscholar.org/)
-    -   Citation Managers: Mendeley, Zotero, EndNote, PAPERLIB, Logseq
-    -   Data Analysis and Visualization: R, Python, MATLAB, Tableau
-    -   Writing and Editing: Grammarly, ProWritingAid, Scrivener
+        -   [Google Scholar](https://scholar.google.com/?authuser=1)
+        -   [ResearchGate](https://www.researchgate.net/)
+        -   [Semanticscholar](https://www.semanticscholar.org/)
+    -   Citation Managers:
+        -    [Mendeley](https://www.mendeley.com/?interaction_required=true)
+        -    [Zotero](https://www.zotero.org/)
+        -    [Paperlib](https://paperlib.app/en/)
+    -   Note-taking Tools:
+        -    [OneNote](https://www.onenote.com/)
+        -    [Notion](https://www.notion.so/)
+        -    [Obsidian](https://obsidian.md/)
+        -    [Logseq](https://logseq.com/)
+
 -   Academic Databases and Journals:
     -   General Academic Databases: JSTOR, PubMed, ScienceDirect
     -   Subject-Specific Databases: Web of Science, Scopus, ACM Digital Library
@@ -32,7 +39,6 @@ This repository aims to provide a comprehensive collection of tools, websites, a
 -   Productivity and Time Management:
     -   To-do Lists and Task Managers: Trello, Asana, Todoist
     -   Time Tracking Apps: Toggl, RescueTime
-    -   Note-taking Tools: Evernote, OneNote, Notion
 
 ### Contributing
 
